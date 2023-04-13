@@ -1,2 +1,8 @@
 exercises/hw07/data/*
+exercises/hw08/data/*
+*.pyc
+*.ckpt
+
 # exercises/hw07/data/MNIST/raw/t10k-images-idx3-ubyte
+# exercises/hw08/data/cd14_monocyte_erythrocyte_celltype.tsv
+exercises/hw08/__pycache__/dv_train.cpython-38.pyc
